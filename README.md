@@ -52,7 +52,7 @@ License
 Distributed under the MIT License. See LICENSE for more information.
 Contact
 
-Your Name - @AbanAndroidDev
+Twitter - @AbanAndroidDev
 
 Project Link: [(https://github.com/Aban3049/WeatherApp)]
 
